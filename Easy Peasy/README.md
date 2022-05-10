@@ -124,7 +124,7 @@ Now i tried to use `steghide` on `binarycodepixabay.jpg` using the password that
 ```
 lelouch@lelouch-IdeaPad-3-15IML05-D:~/Tryhackme/Easy Peasy$ ssh boring@10.10.163.86 -p 6498
 The authenticity of host '[10.10.163.86]:6498 ([10.10.163.86]:6498)' can't be established.
-ECDSA key fingerprint is SHA256:hnBqxfTM/MVZzdifMyu9Ww1bCVbnzSpnrdtDQN6zSek.
+ECDSA key fingerprint is.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes  
 Warning: Permanently added '[10.10.163.86]:6498' (ECDSA) to the list of known hosts.
 *************************************************************************
